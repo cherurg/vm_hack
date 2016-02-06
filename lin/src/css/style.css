@@ -1,0 +1,21 @@
+.over-grid {
+    lost-utility: clearfix;
+    .grid {
+        lost-column: 1/2;
+    }
+}
+
+#module-2d {
+    padding-left: 2em;
+    padding-top: 2em;
+    lost-center: 1200px;
+}
+
+.slider-buttons {
+    left: center;
+}
+
+.button-img {
+    top: center;
+    left: center;
+}
